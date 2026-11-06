@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "caption": "收到",
+    "meaning": "确认",
+    "previous": "文件发你啦，按这版走。",
+    "reply": "我看到了，会按这版来。",
+    "action": "He notices the message with his hand down / raises a precise salute at his eyebrow and nods / proudly holds the salute as the giant badge swings diagonally upward and bonks his chin, eyes comically squeezed shut."
+  },
+  {
+    "id": 2,
+    "caption": "我来",
+    "meaning": "接手",
+    "previous": "谁能接一下这个活？",
+    "reply": "我来扛。",
+    "action": "He glances toward camera palms open / purposefully rolls up one orange sleeve with the other hand / leans forward grinning, points his thumb at his own chest, sleeve rolled up."
+  },
+  {
+    "id": 3,
+    "caption": "谢啦",
+    "meaning": "感谢",
+    "previous": "资料都给你整理好了。",
+    "reply": "多谢搭把手。",
+    "action": "He holds a takeaway coffee cup close to his own chest / bends forward slightly with a grateful smile / offers the coffee to the viewer with both hands, cup in foreshortened foreground, eyes smiling."
+  },
+  {
+    "id": 4,
+    "caption": "辛苦了",
+    "meaning": "慰劳",
+    "previous": "我把最后一页也对完了。",
+    "reply": "忙这一轮辛苦啦。",
+    "action": "He produces a folded cool blue towel / shakes it open horizontally in both hands / warmly offers the unfolded towel to the viewer with a kind smile."
+  },
+  {
+    "id": 5,
+    "caption": "等我下",
+    "meaning": "稍等",
+    "previous": "现在出发吗？",
+    "reply": "我还差一点，别先走。",
+    "action": "He looks up urgently at the viewer / opens a stop-palm towards viewer while his other hand fumbles the lanyard / raises one reassuring index finger to ask for just a moment, alert but friendly."
+  },
+  {
+    "id": 6,
+    "caption": "没事儿",
+    "meaning": "宽慰",
+    "previous": "刚才手滑，把旧版发你了。",
+    "reply": "不用紧张，小事情。",
+    "action": "He startles, shoulders raised / relaxes his eyebrows and gives a small easy side-wave with an open hand / smiles gently and waves away the worry to the other side, shoulders down."
+  },
+  {
+    "id": 7,
+    "caption": "稳了",
+    "meaning": "搞定",
+    "previous": "这版终于跑通了？",
+    "reply": "确认，可以放心。",
+    "action": "He studies a slim dark clipboard against his chest / checks it emphatically with a cobalt pen / raises a confident thumbs-up beside the board, one eyebrow raised in a grin."
+  },
+  {
+    "id": 8,
+    "caption": "笑死我了",
+    "meaning": "大笑",
+    "previous": "我刚对着静音的会议讲了三分钟。",
+    "reply": "我憋不住了。",
+    "action": "He bites his lip trying hard not to laugh / hides a grin behind a fist / tips his head back in a big open-mouthed laugh, hand on stomach, tear in the corner of an eye."
+  },
+  {
+    "id": 9,
+    "caption": "容我两秒",
+    "meaning": "赶工",
+    "previous": "好了没？我等你一起发。",
+    "reply": "我还在敲最后两下。",
+    "action": "At compact open gray laptop, he briefly looks up / extends a distinct two-finger V with one hand, other hand still typing / ducks down and frantically types with both hands, brow furrowed, laptop visible in all three."
+  },
+  {
+    "id": 10,
+    "caption": "我捋捋",
+    "meaning": "梳理",
+    "previous": "甲方说想要第一版和第三版的中间版。",
+    "reply": "让我理一下。",
+    "action": "Holding a visibly tangled coral cord in BOTH hands he studies it with a puzzled frown / spreads his hands apart, loop partially loosens / holds up the straightened cord, one end in each hand across chest, enlightened half smile."
+  },
+  {
+    "id": 11,
+    "caption": "我顶着",
+    "meaning": "救场",
+    "previous": "会议快开始了，我还在路上。",
+    "reply": "你慢慢来，我先顶上。",
+    "action": "He notices something suddenly and reaches for his huge blue badge / lifts the cobalt ID plate sideways like a shield / braces behind the raised badge shield, chin up, determined handsome face peeking over top."
+  },
+  {
+    "id": 12,
+    "caption": "先吃饭",
+    "meaning": "约饭",
+    "previous": "这页磨一上午了，还改吗？",
+    "reply": "开饭，回来再战。",
+    "action": "He opens a small lunch box under his face / raises his chopsticks with a morsel of food / holds the open box out to the viewer with an inviting grin, lunch props consistent."
+  },
+  {
+    "id": 13,
+    "caption": "救我虾命",
+    "meaning": "感激",
+    "previous": "我替你把误删的版本找回来了。",
+    "reply": "你可救了我的命。",
+    "action": "Gratitude so extreme: he clasps both palms under his chin and looks up / lifts joined hands dramatically above his head / bows deeply in exaggerated thanks with clasped hands forward, small comical tear."
+  },
+  {
+    "id": 14,
+    "caption": "冒个泡",
+    "meaning": "出现",
+    "previous": "虾哥，还在群里吗？",
+    "reply": "潜水的人在。",
+    "action": "He makes a cameo for colleagues: LEFT drawing is a waist-up pose in side view, his lips pursed while he gently blows a small translucent blue soap bubble from ONE blue bubble wand held in his only visible RIGHT hand. MIDDLE drawing is three-quarter, lifting the same bubble wand and raising one eyebrow as a single blue bubble swells. RIGHT drawing is front three-quarter, the bubble pops into three small blue bubbles over one shoulder, he looks at viewer with a conspiratorial wink and holds the SAME wand beside his cheek. His other arm is fully behind his back and never visible. The giant badge hangs by gravity in the normal position at chest level in all panels. Exactly one visible hand in each drawing, do not hold or touch the badge. Emotion: saying hi in the group after lurking. Keep bubble graphics close enough to figure to avoid crossing panel gutter."
+  },
+  {
+    "id": 15,
+    "caption": "嘴硬而已",
+    "meaning": "心软",
+    "previous": "行，那我自己搬这摞文件了。",
+    "reply": "我嘴上嫌麻烦，手已经接过来了。",
+    "action": "He folds both arms and looks away with an aloof pout / peeks sideways and sneaks one hand out / is caught hugging a big stack of cream paper folders to his chest with a bashful sideways face."
+  },
+  {
+    "id": 16,
+    "caption": "撤啦",
+    "meaning": "下班",
+    "previous": "今天先到这儿吧。",
+    "reply": "我先撤，明天见。",
+    "action": "Energetic full body action: he crouches into a sprinter start with his badge forward / springs into a profile run to the right, one knee high, blue badge flies behind / in a wide long running stride he looks back over his shoulder and waves goodbye, badge flying backward. All three entire silhouettes visible."
+  }
+]

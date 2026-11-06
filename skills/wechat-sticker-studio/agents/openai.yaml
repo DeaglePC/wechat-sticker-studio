@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信动态表情工作室"
+  short_description: "从一句群聊回复做出原创整套动图，校验专辑并用浏览器上传微信草稿"
+  default_prompt: "用 $wechat-sticker-studio 给熟同事群做 16 张工牌虾动图，嘴硬又靠谱，导出微信投稿包。"

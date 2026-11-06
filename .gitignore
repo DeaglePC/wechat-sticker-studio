@@ -1,0 +1,9 @@
+/工牌虾/
+/dist/
+/output/
+/.venv/
+__pycache__/
+.DS_Store
+.env
+.env.*
+upload-plan*.json
